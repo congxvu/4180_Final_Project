@@ -39,4 +39,20 @@ The purpose of RBG is to indicate temperature and sunlight. The RBG turns blue w
 ![279556225_1123972208387081_1864683205247866208_n](https://user-images.githubusercontent.com/70187862/166414463-78eda838-d684-4e5a-ad54-41eeb4d411c7.jpg)
 
 ## Parts List
-- Mbed LPC1768(https://www.sparkfun.com/products/9564)
+- Mbed LPC1768 https://www.sparkfun.com/products/9564
+- LCD Display: uLCD-144G2 https://www.sparkfun.com/products/11377
+- Water Level Sensor https://www.amazon.com/gp/product/B07THDH7Y4/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+- Temperature TMP36 https://www.sparkfun.com/products/10988
+- Ambient Light Sensor: TEMT-6000 https://www.sparkfun.com/products/8688
+- Red LED https://www.sparkfun.com/products/10632
+- 2 Pushbuttons: https://www.sparkfun.com/products/97
+- Speaker https://www.sparkfun.com/products/11089
+- H-Bridge TB6612FNG https://www.sparkfun.com/products/14450
+- Small geared DC motor https://www.sparkfun.com/products/13302
+- LED - RGB https://www.sparkfun.com/products/105
+- Resistors 330ohm, https://www.sparkfun.com/products/14490
+- Jumper Wires(M/M and M/F) https://www.sparkfun.com/products/124, https://www.sparkfun.com/products/12794
+
+Non-electronics:
+- Small Box
+- Water cup
