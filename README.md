@@ -1,5 +1,5 @@
 # Smart Water System
-Team Members: Hung Nguyen and Cong Vu
+Team Members: **Hung Nguyen** and **Cong Vu**
 
 **Georgia Institute of Technology**
 
