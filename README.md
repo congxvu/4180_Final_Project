@@ -3,6 +3,8 @@ Team Members: **Hung Nguyen** and **Cong Vu**
 
 **Georgia Institute of Technology**
 
+Link to Demo: https://www.youtube.com/watch?v=7g2n3zWxwoE
+
 ## Table of Contents  
 - [Project Idea](#project-idea)
 - [Block Diagram](#block-diagram)
@@ -96,7 +98,6 @@ The source code is included in this repository. Import the repository into MBedC
 #include "uLCD_4DGL.h"
 #include "PinDetect.h"
 #include "rtos.h"
-//#include "NeoMatrix.h"
 #include "Speaker.h"
 #define LED_COUNT 24 // uses a 24-led ring
 #define YELLOW 0xFFFF00
